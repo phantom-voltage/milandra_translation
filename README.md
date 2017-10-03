@@ -42,5 +42,6 @@ If all of that is confusing to you, the table is already created with blank entr
 ![Kanji 08](/images/8_803a_f.png)
 ![Kanji 09](/images/9_2040_f.png)
 ![Kanji 10](/images/10_c045_f.png)
-![Kanji 11](/images/11_0051_f.png)
+![Kanji 11](/images/11_604b_f.png)
+![Kanji 12](/images/12_0051_f.png)
 
