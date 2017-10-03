@@ -29,7 +29,10 @@ The kanji starts at address 2013, and the next kanji is at address 3213, the one
 
 If all of that is confusing to you, the table is already created with blank entries in the order the Kanji appears, from left to right, going down.
 
+The table is located in this repository, lookup.tbl. Edit it with any text editor that supports UTF-8 and submit a pull request!
+
 ![Kanji guide](/images/kanji_guide.png)
+![Lookup table](/images/lookup_table.png)
 
 
 ## Images
