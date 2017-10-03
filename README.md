@@ -32,15 +32,15 @@ If all of that is confusing to you, the table is already created with blank entr
 
 ## Images
 
-![Kanji 01](1_2013_f.png)
-![Kanji 02](2_c018_f.png)
-![Kanji 03](3_601e_f.png)
-![Kanji 04](4_0024_f.png)
-![Kanji 05](5_a029_f.png)
-![Kanji 06](6_402f_f.png)
-![Kanji 07](7_e034_f.png)
-![Kanji 08](8_803a_f.png)
-![Kanji 09](9_2040_f.png)
-![Kanji 10](10_c045_f.png)
-![Kanji 11](11_0051_f.png)
+![Kanji 01](/images/1_2013_f.png)
+![Kanji 02](/images/2_c018_f.png)
+![Kanji 03](/images/3_601e_f.png)
+![Kanji 04](/images/4_0024_f.png)
+![Kanji 05](/images/5_a029_f.png)
+![Kanji 06](/images/6_402f_f.png)
+![Kanji 07](/images/7_e034_f.png)
+![Kanji 08](/images/8_803a_f.png)
+![Kanji 09](/images/9_2040_f.png)
+![Kanji 10](/images/10_c045_f.png)
+![Kanji 11](/images/11_0051_f.png)
 
